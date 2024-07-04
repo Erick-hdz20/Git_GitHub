@@ -8,3 +8,10 @@ edad = int(input('Ingresa tu edad:'))
 año = 2024 - edad
 #Mostrar mensaje final
 print(f'Tu nombre es {nombre}, tienes {edad} años, naciste en el año {año}')
+
+#imprir ciclo for
+for i in range(1,6):
+    print(f'numero:{i}')
+
+#mensaje del curso
+print('Curso Git')
