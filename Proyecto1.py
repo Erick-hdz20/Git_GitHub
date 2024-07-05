@@ -1,4 +1,5 @@
 #Mostrar saludo
+print('Estas en la rama principal')
 print('Hola, buen día')
 #Pedir nombre
 nombre = input('Ingresa tu nombre:')
@@ -15,3 +16,4 @@ for i in range(1,6):
 
 #mensaje del curso
 print('Curso Git')
+
