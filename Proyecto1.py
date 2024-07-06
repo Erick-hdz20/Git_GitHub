@@ -27,4 +27,4 @@ perro = input('Ingresa el nombre de tu perro:')
 for premios in range(1,11):
     print(f'{perro} se comió {premios} premios.')
 
-
+print('Tu perro come mucho')
