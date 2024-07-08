@@ -15,7 +15,7 @@ año = 2024 - edad
 #obtener genero
 genero = input('Ingresa tu genero:')
 #Mostrar mensaje final
-print(f'Tu nombre es {nombre}, tienes {edad} años, naciste en el año {año}')
+print(f'Tu nombre es {nombre} {apellido}, tu genero es {genero}, tienes {edad} años y naciste en el año {año}')
 
 #imprir ciclo for
 for i in range(1,6):
