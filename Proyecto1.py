@@ -3,6 +3,8 @@ print('Estas en la rama principal')
 print('Hola, buen día')
 #Pedir nombre
 nombre = input('Ingresa tu nombre:')
+#pedir apellido
+apellido = input('Ingresa tu apellido:')
 #Pedir edad
 edad = int(input('Ingresa tu edad:'))
 #Obtener año
