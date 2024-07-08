@@ -10,6 +10,8 @@ nombre = input('Ingresa tu nombre:')
 edad = int(input('Ingresa tu edad:'))
 #Obtener año
 año = 2024 - edad
+#obtener genero
+genero = input('Ingresa tu genero:')
 #Mostrar mensaje final
 print(f'Tu nombre es {nombre}, tienes {edad} años, naciste en el año {año}')
 
