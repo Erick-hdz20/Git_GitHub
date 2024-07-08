@@ -1,3 +1,6 @@
+#Mensaje de la rama de prueba
+print('Cambios de la rama de pruebas')
+
 #Mostrar saludo
 print('Estas en la rama principal')
 print('Hola, buen día')
@@ -9,6 +12,8 @@ apellido = input('Ingresa tu apellido:')
 edad = int(input('Ingresa tu edad:'))
 #Obtener año
 año = 2024 - edad
+#obtener genero
+genero = input('Ingresa tu genero:')
 #Mostrar mensaje final
 print(f'Tu nombre es {nombre}, tienes {edad} años, naciste en el año {año}')
 
@@ -19,3 +24,11 @@ for i in range(1,6):
 #mensaje del curso
 print('Curso Git')
 
+#Código de la rama de prueba
+print('Este es el cofigo de la rama de prueba')
+
+perro = input('Ingresa el nombre de tu perro:')
+for premios in range(1,11):
+    print(f'{perro} se comió {premios} premios.')
+
+print('Tu perro come mucho')
